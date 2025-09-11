@@ -52,7 +52,7 @@ git repositories: https://github.com/Leeyoungsup/HnE_Organizational_Segmentation
 - Annotation 이미지 408건
 - Train : Validation : Test = 8 : 1 : 1
 
-![figure/스크린샷 2025-09-09 135427.png](%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-09-09_135427.png)
+![figure/스크린샷 2025-09-09 135427.png](figure/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-09-09_135427.png)
 
 # AI
 
